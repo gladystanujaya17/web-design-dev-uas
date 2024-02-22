@@ -1,0 +1,195 @@
+
+html,
+body {
+  color: #222;
+}
+
+.nav-link {
+  font-size: 1.1rem !important;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: calc(100vh - 75px);
+  object-fit: cover;
+}
+
+.carousel-caption {
+  transform: translateY(-60%);
+}
+
+.welcome {
+  width: 75%;
+}
+.welcome hr {
+  width: 90%;
+}
+
+hr.light {
+  background: #777;
+  width: 80%;
+}
+
+
+/*--- Bootstrap Padding Fix --*/
+[class*="col-"] {
+    padding: 1rem;
+}
+
+
+/*---Media Queries --*/
+
+@media (max-width: 768px) {
+  .carousel-caption {
+    transform: translateY(-80%);
+  }
+  .carousel-caption h1 {
+    font-size: 4rem;
+  }
+
+  .welcome .display-4 {
+    font-size: 3rem;
+  }
+
+  .social a i {
+    font-size: 2.5rem;
+  }
+}
+
+
+@media (max-width: 576px) {
+  .social a i {
+    font-size: 1.75rem;
+  }
+}
+
+
+@media (max-width: 480px) {
+
+  .carousel-caption {
+    left: 5%;
+    right: 5%;
+  }
+  .carousel-caption h1 {
+    font-size: 3rem;
+  }
+
+
+  .welcome {
+    width: 100%;
+  }
+
+  footer h4 {
+    display: inline-block;
+    width: 60%;
+  }
+  footer h4.border-top {
+    border-top: 0 !important;
+  }
+  .my-login-page .card-wrapper {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+}
+
+@media (max-width: 400px) {
+  .carousel-caption {
+    transform: translateY(-20%);
+    left: 1%;
+    right: 1%;
+  }
+
+  .welcome .display-4 {
+    font-size: 2.5rem;
+  }
+
+  .my-login-page .card.fat {
+    padding: 0;
+  }
+
+  .my-login-page .card.fat .card-body {
+    padding: 15px;
+  }
+}
+
+
+/*
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/
+
+
+/* Log in page */
+body.my-login-page {
+  background-color: #f7f9fb;
+  font-size: 14px;
+}
+
+.my-login-page .brand {
+  width: 90px;
+  height: 90px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 40px auto;
+  box-shadow: 0 4px 8px rgba(0,0,0,.05);
+  position: relative;
+  z-index: 1;
+}
+
+.my-login-page .brand img {
+  width: 100%;
+}
+
+.my-login-page .card-wrapper {
+  width: 400px;
+}
+
+.my-login-page .card {
+  border-color: transparent;
+  box-shadow: 0 4px 8px rgba(0,0,0,.05);
+}
+
+.my-login-page .card.fat {
+  padding: 10px;
+}
+
+.my-login-page .card .card-title {
+  margin-bottom: 30px;
+}
+
+.my-login-page .form-control {
+  border-width: 2.3px;
+}
+
+.my-login-page .form-group label {
+  width: 100%;
+}
+
+.my-login-page .btn.btn-block {
+  padding: 12px 10px;
+}
+
+/*Profile icon*/
+.dropdown-menu a.icon {
+  position: relative;
+  padding-left: 40px;
+}
+
+
+
+
+
+
