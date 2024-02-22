@@ -1,0 +1,12 @@
+File ini dibuat oleh Kelompok 2 IS556 Kelas C
+Anggota
+Anthony Salim (00000059287)
+Cindy Febriani Santoso (00000059735) 
+Gladys Tanujaya (00000057928)
+Michelle Celine (00000059777)
+Rafael Putra Hulu (00000058742)
+
+
+Info login Gotion
+username: Kel2_IS556C
+password: 12345
