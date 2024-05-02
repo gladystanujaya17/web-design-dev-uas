@@ -9,7 +9,7 @@ user. For us, traveling is not limited to just travel activities but also
 how the travel process can be formed well, efficiently and safely. With
 attractive, comfortable and reliable travel website, we hope that users can feel happy using our travel services.
 
-## Technologies Used
+## Technologies
 - HTML/CSS/JavaScript: Used for making the structure, design, and interactivity of website
 - Boostrap: Used as a CSS framework
 - PHP: Used as a backend
