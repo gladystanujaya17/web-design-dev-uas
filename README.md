@@ -4,7 +4,7 @@
 Gotion is a website created and developed by several students
 Information Systems major class of 2021, Multimedia Nusantara University. Gotion website is
 created and inspired by the longing of many people who want to find a new atmosphere in
-new place with comfort. In Gotion, there will be three services that is shown, which is hotel tickets, train tickets, and airplane tickets. The team made these choices because these three are frequently used by people
+new place with comfort. In Gotion, there will be three services that is shown, which is hotel tickets, train tickets, and airplane tickets. The team made these choices because these three choices are frequently used by people
 user. For us, traveling is not limited to just travel activities but also
 how the travel process can be formed well, efficiently and safely. With
 attractive, comfortable and reliable travel website, we hope that users can feel happy using our travel services.
